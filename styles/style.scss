@@ -298,10 +298,11 @@ a{
     padding: 3rem 11rem;
     display: none;
     overflow-x: hidden;
-   @media (max-width : 600px){
+   @media (max-width : 768px){
     padding: 3rem;
+      grid-gap:0 ;
 }
-    @media (max-width : 425px){
+    @media (max-width : 625px){
      padding: 3rem 3rem;
     }
     
