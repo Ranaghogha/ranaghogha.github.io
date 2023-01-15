@@ -252,6 +252,9 @@ a{
         .desc{
             margin: 1.5rem 0;
             line-height: 2rem;
+           @media(min-width: 768px){
+                padding: 0 20px;
+            }
         }
         .cv{
             width: 200px;
@@ -358,8 +361,8 @@ a{
             font-size: 1.5rem;
             font-weight: lighter;
             color: #454e56;
-            @media (max-width : 425px){
-            //    text-align: center;
+            @media (max-width : 768px){
+            padding: 0 30px;
             }
         }
     }
