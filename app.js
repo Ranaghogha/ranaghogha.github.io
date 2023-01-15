@@ -2,49 +2,49 @@
 const category = [
     {
         
-        category : "project",
+        category : "projects",
         img: "./assest/p1.webp",
         desc:"Project Source",
         link :"https://www.github.com",
     },
     {
        
-        category : "project",
+        category : "projects",
         img:"./assest/p2.webp",
         desc:"Project Source",
         link :"https://www.github.com",
     },
     {
         
-        category : "project",
+        category : "projects",
         img:"./assest/p3.png",
         desc:"Project Source",
         link :"https://www.github.com",
     },
     {
       
-        category : "project",
+        category : "projects",
         img:'./assest/p4.jpeg',
         desc:"Project Source",
         link :"https://www.github.com",
     },
     {
        
-        category : "Certificate",
+        category : "Certificates",
         img:"./assest/c1.jpeg",
         desc:"HTML DEVELOPER",
         link :"https://www.github.com",
     },
     {
        
-        category : "Certificate",
+        category : "Certificates",
         img:"./assest/c2.png",
         desc:"FRONT-END DEVELOPER",
         link :"https://www.github.com",
     },
     {
         
-        category : "Certificate",
+        category : "Certificates",
         img:"./assest/c3.png",
         desc:"PESPONSIVE WEBSITE",
         link :"https://www.github.com",
