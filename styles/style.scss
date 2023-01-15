@@ -302,6 +302,9 @@ a{
     padding: 3rem;
       grid-gap:0 ;
 }
+ @media (max-width : 625px){
+     padding: 3rem 2rem;
+    }
 
     .title{
         text-align: center;
